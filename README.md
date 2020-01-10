@@ -1,2 +1,2 @@
-# Smart-Mirror
- Raspberry pi smart mirror python code
+# Raspberry Pi Smart-Mirror
+
