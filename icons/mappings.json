@@ -1,0 +1,4 @@
+{"clear-day":"Sun.png", "clear-night":"Moon.png",
+             "partly-cloudy-day":"PartlySunny.png", "partly-cloudy-night":"PartlyMoon.png",
+             "cloudy":"Cloud.png", "rain":"Rain.png", "sleet":"Hail.png",
+             "snow":"Snow.png", "wind":"Wind.png", "fog":"Haze.png"}
